@@ -1,0 +1,17 @@
+C:\Users\ACER7\Desktop\Lv2ObjektnoProgramiranje\Lv2ObjektnoProgramiranje\bin\Debug\Lv2ObjektnoProgramiranje.exe.config
+C:\Users\ACER7\Desktop\Lv2ObjektnoProgramiranje\Lv2ObjektnoProgramiranje\bin\Debug\Lv2ObjektnoProgramiranje.exe
+C:\Users\ACER7\Desktop\Lv2ObjektnoProgramiranje\Lv2ObjektnoProgramiranje\bin\Debug\Lv2ObjektnoProgramiranje.pdb
+C:\Users\ACER7\Desktop\Lv2ObjektnoProgramiranje\Lv2ObjektnoProgramiranje\obj\Debug\Lv2ObjektnoProgramiranje.Form1.resources
+C:\Users\ACER7\Desktop\Lv2ObjektnoProgramiranje\Lv2ObjektnoProgramiranje\obj\Debug\Lv2ObjektnoProgramiranje.Properties.Resources.resources
+C:\Users\ACER7\Desktop\Lv2ObjektnoProgramiranje\Lv2ObjektnoProgramiranje\obj\Debug\Lv2ObjektnoProgramiranje.csproj.GenerateResource.Cache
+C:\Users\ACER7\Desktop\Lv2ObjektnoProgramiranje\Lv2ObjektnoProgramiranje\obj\Debug\Lv2ObjektnoProgramiranje.exe
+C:\Users\ACER7\Desktop\Lv2ObjektnoProgramiranje\Lv2ObjektnoProgramiranje\obj\Debug\Lv2ObjektnoProgramiranje.pdb
+C:\Users\ACER7\Desktop\Lv3ObjektnoProgramiranje\Lv2ObjektnoProgramiranje\bin\Debug\Lv2ObjektnoProgramiranje.exe.config
+C:\Users\ACER7\Desktop\Lv3ObjektnoProgramiranje\Lv2ObjektnoProgramiranje\obj\Debug\Lv2ObjektnoProgramiranje.exe
+C:\Users\ACER7\Desktop\Lv3ObjektnoProgramiranje\Lv2ObjektnoProgramiranje\obj\Debug\Lv2ObjektnoProgramiranje.pdb
+C:\Users\ACER7\Desktop\Lv3ObjektnoProgramiranje\Lv2ObjektnoProgramiranje\bin\Debug\Lv2ObjektnoProgramiranje.exe
+C:\Users\ACER7\Desktop\Lv3ObjektnoProgramiranje\Lv2ObjektnoProgramiranje\bin\Debug\Lv2ObjektnoProgramiranje.pdb
+C:\Users\ACER7\Desktop\Lv3ObjektnoProgramiranje\Lv2ObjektnoProgramiranje\obj\Debug\Lv2ObjektnoProgramiranje.csprojResolveAssemblyReference.cache
+C:\Users\ACER7\Desktop\Lv3ObjektnoProgramiranje\Lv2ObjektnoProgramiranje\obj\Debug\Lv2ObjektnoProgramiranje.Form1.resources
+C:\Users\ACER7\Desktop\Lv3ObjektnoProgramiranje\Lv2ObjektnoProgramiranje\obj\Debug\Lv2ObjektnoProgramiranje.Properties.Resources.resources
+C:\Users\ACER7\Desktop\Lv3ObjektnoProgramiranje\Lv2ObjektnoProgramiranje\obj\Debug\Lv2ObjektnoProgramiranje.csproj.GenerateResource.Cache
